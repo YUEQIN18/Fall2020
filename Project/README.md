@@ -72,7 +72,7 @@ If you don't know how to transfer files remotely to Raspberry Pi, :white_check_m
 
 then it will run untill you press ctrl + C
     
-## Open a Browser on your PC or mobile phone
+## Open a browser on your PC or mobile phone
 
 enter your Raspberry Pi IP address on search bar, like 
     
