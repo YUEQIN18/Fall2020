@@ -13,6 +13,8 @@ If you want to know how to add emoji exppressions into markdown, :white_check_ma
 
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/SETI.gif" width="600" alt="add_resourse"/><br/>
 
+If you want to know more information about SETI, :white_check_mark:click [here](https://github.com/YUEQIN18/IoT/blob/master/SETI%20Project.md)
+
 ## Weekly report 8
 
 [2020-10-18] Read and install the Alpine Linux on my VirtualBox, install Gnome Desktop Environment and Docker.
