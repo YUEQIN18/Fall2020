@@ -1,8 +1,9 @@
 # Project: [Video Monitor on a Raspberry Pi](https://github.com/YUEQIN18/IoT/tree/master/Project/README.md)
 
-## Weekly report 10
+## Weekly report 10 (To be updated:pray:)
 
 [2020-12-05] Reformatted the weekly report, adding some content and emoji expressions. :star:
+If you want to know how to add emoji exppressions into markdown, :white_check_mark:click [here](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 [2020-12-04] Determined the project of IoT. Bought a Raspberry Pi Camera V2.
 
