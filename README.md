@@ -1,4 +1,4 @@
-# Project: [Video Monitor](https://github.com/YUEQIN18/IoT/tree/master/Project/README.md)
+# Project: [Video Monitor on a Raspberry Pi](https://github.com/YUEQIN18/IoT/tree/master/Project/README.md)
 
 ## Weekly report 10
 
