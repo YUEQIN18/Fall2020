@@ -1,4 +1,4 @@
-# Project: Video Monitor
+# Project: Video Monitor on a Raspberry Pi
 
 ### Hardware Preparation:
 
