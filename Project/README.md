@@ -61,7 +61,7 @@
 
 ## Put rasp-camera.py on the desktop of Raspberry Pi
 
-If you don't know how to transfer files remotely to Raspberry Pi, please see [here](https://github.com/YUEQIN18/IoT/blob/master/Project/Use%20FileZilla%20to%20transfer%20files%20to%20Raspberry%20Pi.md)
+If you don't know how to transfer files remotely to Raspberry Pi, :white_check_mark:please see [here](https://github.com/YUEQIN18/IoT/blob/master/Project/Use%20FileZilla%20to%20transfer%20files%20to%20Raspberry%20Pi.md)
 
 ## Run rasp-camera.py on Raspberry Pi
 
