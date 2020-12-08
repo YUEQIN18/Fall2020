@@ -27,25 +27,25 @@ If you want to know how to add emoji exppressions into markdown, :white_check_ma
 
 [2020-10-12] Learn how to use Django on Raspberry Pi.
 
-## Weekly report 5
+## :white_check_mark:Weekly report 5
 
 [2020-10-03] Installed PyCharm on Raspberry Pi. Learned how to use PyCharm on Raspberry Pi.
 
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/ins_pycharm.jpg" width="600" alt="add_resourse"/><br/>
 
-## Weekly report 4
+## :white_check_mark:Weekly report 4
 
 [2020-09-25] Completed Lab3A.
 
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/sys_info.jpg" width="600" alt="add_resourse"/><br/>
 
-## Weekly report 3
+## :white_check_mark:Weekly report 3
 
 [2020-09-18] Completed Lab2A. I didn’t buy those sensors because I don’t have a house. :laughing: :laughing: :laughing:
 
 [2020-09-15] Bought GIOP and Breadboard.
 
-## Weekly report 2
+## :white_check_mark:Weekly report 2
 
 [2020-09-12] Completed Lab1A, Lab1B, Lab1D.
 
@@ -58,7 +58,7 @@ of Tsinghua University and updated the software list.
 [2020-09-08] My Raspberry Pi was delivered.
 
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/rasp.jpg" width="600" alt="add_resourse"/><br/>
-## Weekly report 1
+## :white_check_mark:Weekly report 1
 
 [2020-09-05] Studied the IEEE writing style. Bought the Raspberry Pi 4B.
 
