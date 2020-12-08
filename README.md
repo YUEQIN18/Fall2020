@@ -10,6 +10,8 @@
 
 [2020-10-26] Find an interesting program, SETI from UC Berkeley. SETI experiments are trying to determine whether other intelligent extraterrestrial life exists in the universe, to answer the question "Are we alone?" or "Is anybody out there?" Over 5.2 million volunteers take part in SETI distributed computation. Based on SETI@home, Berkeley developed BOINC, Berkeley Open Infrastructure for Network Computing, which has deployed interesting research projects in biomedicine, climate change, astrophysics, cryptography, mathematical proof, and many other fields. Everyone who has a Raspberry Pi or a PC is able to participate in and contribute to BOINC programs.
 
+<img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/SETI.gif" width="600" alt="add_resourse"/><br/>
+
 ## Weekly report 8
 
 [2020-10-18] Read and install the Alpine Linux on my VirtualBox, install Gnome Desktop Environment and Docker.
