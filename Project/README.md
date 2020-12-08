@@ -1,6 +1,6 @@
 # Project: Video Monitor
 
-#### Hardware Preparation:
+### Hardware Preparation:
 
 1. Raspberry Pi 4B
 
@@ -12,7 +12,7 @@
 
 3. Other devices that can watch the monitoring
 
-#### Software Preparation:
+### Software Preparation:
 
 1. Raspberry Pi OS
 
