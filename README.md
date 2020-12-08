@@ -38,8 +38,7 @@
 
 ## Weekly report 3
 
-[2020-09-18] Completed Lab2A. In the lecture, the professor show us many sensors and he said that his house has 3 floors and a basement, so he needs 
-a pressure sensor. I didn’t buy those sensors because I don’t have a house. :laughing: :laughing: :laughing:
+[2020-09-18] Completed Lab2A. I didn’t buy those sensors because I don’t have a house. :laughing: :laughing: :laughing:
 
 [2020-09-15] Bought GIOP and Breadboard.
 
