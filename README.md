@@ -1,6 +1,6 @@
 # Project: [Video Monitor on a Raspberry Pi](https://github.com/YUEQIN18/IoT/tree/master/Project/README.md)
 
-## Weekly report 10 (To be updated:pray:)
+## Weekly report 10
 
 [2020-12-05] Reformatted the weekly report, adding some content and emoji expressions. :star:
 If you want to know how to add emoji expressions into markdown, :white_check_mark:click [here](https://www.webfx.com/tools/emoji-cheat-sheet/)
