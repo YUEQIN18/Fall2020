@@ -7,14 +7,15 @@
 - Completed Lab4D.
 
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab4d1.jpg" width="600" alt="add_resourse"/><br/>
-Login to default page.
+    - Login to default page.
 
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab4d2.jpg" width="600" alt="add_resourse"/><br/>
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab4d3.jpg" width="600" alt="add_resourse"/><br/>
-View "Hello world" and the PHP info.
+    - View "Hello world" and the PHP info.
 
-<img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab4d4.jpg" width="600" alt="add_resourse"/><br/>
+<img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab4d4.jpg" width="250" alt="add_resourse"/><br/>
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab4d5.jpg" width="600" alt="add_resourse"/><br/>
+    - Something may go wrong, I can't see the WordPress page.
 
 ## Weekly report 10
 
