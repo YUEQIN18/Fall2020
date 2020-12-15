@@ -3,6 +3,22 @@
 ## Weekly report 11
 
 [2020-12-15] 
+
+
+- Completed Lab7A
+    Log in ThingSpeak
+
+<img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab7a1.jpg" width="600" alt="add_resourse"/><br/>
+
+    Run thingspeak_feed.py
+
+<img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab7a2.jpg" width="600" alt="add_resourse"/><br/>
+
+    See status
+
+<img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab7a3.jpg" width="600" alt="add_resourse"/><br/>
+<img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab7a4.jpg" width="600" alt="add_resourse"/><br/>
+
 - Completed Lab6B
 
     Run and view Node.js server at http://192.168.x.xxx:8080 on a laptop computer
