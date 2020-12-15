@@ -7,10 +7,10 @@
 
 - Install Python packages on a Raspberry Pi
 
-<img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab8a1.jpg" width="500" alt="add_resourse"/><br/>
+<img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab8a1.jpg" width="250" alt="add_resourse"/><br/>
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab8a2.jpg" width="500" alt="add_resourse"/><br/>
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab8a3.jpg" width="500" alt="add_resourse"/><br/>
-<img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab8a4.jpg" width="500" alt="add_resourse"/><br/>
+<img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab8a4.jpg" width="250" alt="add_resourse"/><br/>
 
 - Run Python code
 
