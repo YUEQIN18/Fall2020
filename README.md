@@ -1,6 +1,6 @@
 # Project: [Video Monitor on a Raspberry Pi](https://github.com/YUEQIN18/IoT/tree/master/Project/README.md)
 
-## Weekly report 11
+## :white_check_mark:Weekly report 11
 
 ### [2020-12-15] 
 #### Completed Lab8A
@@ -69,7 +69,7 @@
     
 - Something may go wrong, I can't see the WordPress page.
 
-## Weekly report 10
+## :white_check_mark:Weekly report 10
 
 ### [2020-12-05] 
 Reformatted the weekly report, adding some content and emoji expressions.
@@ -78,41 +78,41 @@ If you want to know how to add emoji expressions into markdown, :white_check_mar
 ### [2020-12-04] 
 Determined the project of IoT. Bought a Raspberry Pi Camera V2.
 
-## Weekly report 9
+## :white_check_mark:Weekly report 9
 
 ### [2020-10-26] 
 Find an interesting program, SETI from UC Berkeley. SETI experiments are trying to determine whether other intelligent extraterrestrial life exists in the universe, to answer the question "Are we alone?" or "Is anybody out there?" Over 5.2 million volunteers take part in SETI distributed computation. Based on SETI@home, Berkeley developed BOINC, Berkeley Open Infrastructure for Network Computing, which has deployed interesting research projects in biomedicine, climate change, astrophysics, cryptography, mathematical proof, and many other fields. Everyone who has a Raspberry Pi or a PC is able to participate in and contribute to BOINC programs.
 
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/SETI.gif" width="600" alt="add_resourse"/><br/>
 
-## Weekly report 8
+## :white_check_mark:Weekly report 8
 
 ### [2020-10-18] 
 
 Installed Docker.
 
-- Completed Lab5A
+#### Completed Lab5A
 
-Install Docker on a Raspberry Pi
+- Install Docker on a Raspberry Pi
 
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab5a1.jpg" width="600" alt="add_resourse"/><br/>
 
-Run Docker images designed to work on ARM under the prefix armhf
+- Run Docker images designed to work on ARM under the prefix armhf
 
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab5a2.jpg" width="600" alt="add_resourse"/><br/>
 
-Build and run new image from Dockerfile
+- Build and run new image from Dockerfile
 
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab5a3.jpg" width="600" alt="add_resourse"/><br/>
 
-Run Crossbar.io router on Terminal 1
+- Run Crossbar.io router on Terminal 1
 
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab5a3.jpg" width="600" alt="add_resourse"/><br/>
 
-Can't continue due to error about Ternminal 2
+- Can't continue due to error about Ternminal 2
 
 
-## Weekly report 7
+## :white_check_mark:Weekly report 7
 
 ### [2020-10-17] 
 Learned about Crossbar.io and Paho.
@@ -120,7 +120,7 @@ Learned about Crossbar.io and Paho.
 ### [2020-10-15] 
 Read classmates' weekly reports and correct some grammatical errors.
 
-## Weekly report 6
+## :white_check_mark:Weekly report 6
 
 ### [2020-10-12] 
 Learned how to use Django and Flask on Raspberry Pi.
