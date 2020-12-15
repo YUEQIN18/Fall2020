@@ -4,7 +4,7 @@
 
 [2020-12-15] 
 
--- Completed Lab4D.
+- Completed Lab4D.
 
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab4d1.jpg" width="600" alt="add_resourse"/><br/>
 Login to default page.
