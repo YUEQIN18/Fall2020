@@ -19,12 +19,37 @@
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab8a7.jpg" width="500" alt="add_resourse"/><br/>
 
 #### Completed Lab8B
+- Histograms, box plots, regression, and classification
+
+<img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab8b10.jpg" width="500" alt="add_resourse"/><br/>
+
+<img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab8b3.jpg" width="500" alt="add_resourse"/><br/>
+
+<img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab8b4.jpg" width="500" alt="add_resourse"/><br/>
+
+<img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab8b5.jpg" width="500" alt="add_resourse"/><br/>
+
+<img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab8b6.jpg" width="500" alt="add_resourse"/><br/>
+
+<img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab8b7.jpg" width="500" alt="add_resourse"/><br/>
+
+<img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab8b8.jpg" width="500" alt="add_resourse"/><br/>
+
+<img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab8b9.jpg" width="500" alt="add_resourse"/><br/>
 
 - Keras and TensorFlow
 
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab8b1.jpg" width="500" alt="add_resourse"/><br/>
 
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab8b2.jpg" width="500" alt="add_resourse"/><br/>
+
+- Titanic example
+
+<img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab8b12.jpg" width="500" alt="add_resourse"/><br/>
+
+<img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab8b11.jpg" width="500" alt="add_resourse"/><br/>
+
+<img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab8b13.jpg" width="500" alt="add_resourse"/><br/>
 
 #### Completed Lab7B
 
