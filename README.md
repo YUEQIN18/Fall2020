@@ -3,19 +3,29 @@
 ## Weekly report 11
 
 [2020-12-15] 
+- Completed Lab6B
+
+    Run and view Node.js server at http://192.168.x.xxx:8080 on a laptop computer
+
+<img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab6b1.jpg" width="600" alt="add_resourse"/><br/>
+<img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab6b2.jpg" width="600" alt="add_resourse"/><br/>
+<img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab6b3.jpg" width="600" alt="add_resourse"/><br/>
 
 - Completed Lab4D.
 
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab4d1.jpg" width="600" alt="add_resourse"/><br/>
-    - Login to default page.
+    
+    Login to default page.
 
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab4d2.jpg" width="600" alt="add_resourse"/><br/>
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab4d3.jpg" width="600" alt="add_resourse"/><br/>
-    - View "Hello world" and the PHP info.
+    
+    View "Hello world" and the PHP info.
 
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab4d4.jpg" width="250" alt="add_resourse"/><br/>
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab4d5.jpg" width="600" alt="add_resourse"/><br/>
-    - Something may go wrong, I can't see the WordPress page.
+    
+    Something may go wrong, I can't see the WordPress page.
 
 ## Weekly report 10
 
@@ -32,17 +42,36 @@ If you want to know how to add emoji expressions into markdown, :white_check_mar
 
 ## Weekly report 8
 
-[2020-10-18] Read and install the Alpine Linux on my VirtualBox, install Gnome Desktop Environment and Docker.
+[2020-10-18] Installed Docker.
+- Completed Lab5A
+    Install Docker on a Raspberry Pi
+
+<img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab5a1.jpg" width="600" alt="add_resourse"/><br/>
+
+    Run Docker images designed to work on ARM under the prefix armhf
+
+<img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab5a2.jpg" width="600" alt="add_resourse"/><br/>
+
+    Build and run new image from Dockerfile
+
+<img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab5a3.jpg" width="600" alt="add_resourse"/><br/>
+
+    Run Crossbar.io router on Terminal 1
+
+<img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab5a3.jpg" width="600" alt="add_resourse"/><br/>
+
+    Can't continue due to error about Ternminal 2
+
 
 ## Weekly report 7
 
-[2020-10-17] Learn about Crossbar.io and Paho.
+[2020-10-17] Learned about Crossbar.io and Paho.
 
 [2020-10-15] Read classmates' weekly reports and correct some grammatical errors.
 
 ## Weekly report 6
 
-[2020-10-12] Learn how to use Django and Flask on Raspberry Pi.
+[2020-10-12] Learned how to use Django and Flask on Raspberry Pi.
 
 ## :white_check_mark:Weekly report 5
 
@@ -52,7 +81,9 @@ If you want to know how to add emoji expressions into markdown, :white_check_mar
 
 ## :white_check_mark:Weekly report 4
 
-[2020-09-25] Completed Lab3A.
+[2020-09-25] 
+
+- Completed Lab3A.
 
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/sys_info.jpg" width="600" alt="add_resourse"/><br/>
 
@@ -64,7 +95,9 @@ If you want to know how to add emoji expressions into markdown, :white_check_mar
 
 ## :white_check_mark:Weekly report 2
 
-[2020-09-12] Completed Lab1A, Lab1B, Lab1D.
+[2020-09-12] 
+
+- Completed Lab1A, Lab1B, Lab1D.
 
 [2020-09-12] Set up the Raspberry Pi 4B. The process of configuring the Raspberry Pi is very strange. I can use SSH to access the Raspberry Pi in Mac, 
 but not in the Windows. Because it is very slow to connect to foreign websites in China, I changed the software source to the software mirror station 
