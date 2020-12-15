@@ -2,46 +2,72 @@
 
 ## Weekly report 11
 
-[2020-12-15] 
+### [2020-12-15] 
+#### Completed Lab8A
 
+- Install Python packages on a Raspberry Pi
 
-- Completed Lab7A
-    Log in ThingSpeak
+<img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab8a1.jpg" width="500" alt="add_resourse"/><br/>
+<img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab8a2.jpg" width="500" alt="add_resourse"/><br/>
+<img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab8a3.jpg" width="500" alt="add_resourse"/><br/>
+<img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab8a4.jpg" width="500" alt="add_resourse"/><br/>
+
+- Run Python code
+
+<img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab8a6.jpg" width="500" alt="add_resourse"/><br/>
+
+<img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab8a7.jpg" width="500" alt="add_resourse"/><br/>
+
+#### Completed Lab8B
+
+- Keras and TensorFlow
+
+<img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab8b1.jpg" width="500" alt="add_resourse"/><br/>
+
+<img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab8b2.jpg" width="500" alt="add_resourse"/><br/>
+
+#### Completed Lab7B
+
+<img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab7b1.jpg" width="600" alt="add_resourse"/><br/>
+
+#### Completed Lab7A
+    
+- Log in ThingSpeak
 
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab7a1.jpg" width="600" alt="add_resourse"/><br/>
 
-    Run thingspeak_feed.py
+- Run thingspeak_feed.py
 
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab7a2.jpg" width="600" alt="add_resourse"/><br/>
 
-    See status
+- See status
 
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab7a3.jpg" width="600" alt="add_resourse"/><br/>
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab7a4.jpg" width="600" alt="add_resourse"/><br/>
 
-- Completed Lab6B
+#### Completed Lab6B
 
-    Run and view Node.js server at http://192.168.x.xxx:8080 on a laptop computer
+- Run and view Node.js server at http://192.168.x.xxx:8080 on a laptop computer
 
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab6b1.jpg" width="600" alt="add_resourse"/><br/>
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab6b2.jpg" width="600" alt="add_resourse"/><br/>
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab6b3.jpg" width="600" alt="add_resourse"/><br/>
 
-- Completed Lab4D.
+#### Completed Lab4D.
 
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab4d1.jpg" width="600" alt="add_resourse"/><br/>
     
-    Login to default page.
+- Login to default page.
 
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab4d2.jpg" width="600" alt="add_resourse"/><br/>
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab4d3.jpg" width="600" alt="add_resourse"/><br/>
     
-    View "Hello world" and the PHP info.
+- View "Hello world" and the PHP info.
 
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab4d4.jpg" width="250" alt="add_resourse"/><br/>
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab4d5.jpg" width="600" alt="add_resourse"/><br/>
     
-    Something may go wrong, I can't see the WordPress page.
+- Something may go wrong, I can't see the WordPress page.
 
 ## Weekly report 10
 
@@ -60,23 +86,24 @@ If you want to know how to add emoji expressions into markdown, :white_check_mar
 
 [2020-10-18] Installed Docker.
 - Completed Lab5A
-    Install Docker on a Raspberry Pi
+
+Install Docker on a Raspberry Pi
 
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab5a1.jpg" width="600" alt="add_resourse"/><br/>
 
-    Run Docker images designed to work on ARM under the prefix armhf
+Run Docker images designed to work on ARM under the prefix armhf
 
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab5a2.jpg" width="600" alt="add_resourse"/><br/>
 
-    Build and run new image from Dockerfile
+Build and run new image from Dockerfile
 
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab5a3.jpg" width="600" alt="add_resourse"/><br/>
 
-    Run Crossbar.io router on Terminal 1
+Run Crossbar.io router on Terminal 1
 
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab5a3.jpg" width="600" alt="add_resourse"/><br/>
 
-    Can't continue due to error about Ternminal 2
+Can't continue due to error about Ternminal 2
 
 
 ## Weekly report 7
