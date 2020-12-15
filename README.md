@@ -1,5 +1,15 @@
 # Project: [Video Monitor on a Raspberry Pi](https://github.com/YUEQIN18/IoT/tree/master/Project/README.md)
 
+## Weekly report 11
+
+[2020-12-08] Completed Lab4D.
+
+<img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab4d1.jpg" width="600" alt="add_resourse"/><br/>
+<img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab4d2.jpg" width="600" alt="add_resourse"/><br/>
+<img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab4d3.jpg" width="600" alt="add_resourse"/><br/>
+<img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab4d4.jpg" width="600" alt="add_resourse"/><br/>
+<img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab4d5.jpg" width="600" alt="add_resourse"/><br/>
+
 ## Weekly report 10
 
 [2020-12-05] Reformatted the weekly report, adding some content and emoji expressions. :star:
@@ -27,7 +37,7 @@ If you want to know more information about SETI, :white_check_mark:click [here](
 
 ## Weekly report 6
 
-[2020-10-12] Learn how to use Django on Raspberry Pi.
+[2020-10-12] Learn how to use Django and Flask on Raspberry Pi.
 
 ## :white_check_mark:Weekly report 5
 
