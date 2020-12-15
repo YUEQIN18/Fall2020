@@ -2,17 +2,21 @@
 
 ## Weekly report 11
 
-[2020-12-15] Completed Lab4D.
+[2020-12-15] 
+
+-- Completed Lab4D.
 
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab4d1.jpg" width="600" alt="add_resourse"/><br/>
+Login to default page.
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab4d2.jpg" width="600" alt="add_resourse"/><br/>
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab4d3.jpg" width="600" alt="add_resourse"/><br/>
+View "Hello world" and the PHP info.
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab4d4.jpg" width="600" alt="add_resourse"/><br/>
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/lab4d5.jpg" width="600" alt="add_resourse"/><br/>
 
 ## Weekly report 10
 
-[2020-12-05] Reformatted the weekly report, adding some content and emoji expressions. :star:
+[2020-12-05] Reformatted the weekly report, adding some content and emoji expressions.
 If you want to know how to add emoji expressions into markdown, :white_check_mark:click [here](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 [2020-12-04] Determined the project of IoT. Bought a Raspberry Pi Camera V2.
@@ -22,8 +26,6 @@ If you want to know how to add emoji expressions into markdown, :white_check_mar
 [2020-10-26] Find an interesting program, SETI from UC Berkeley. SETI experiments are trying to determine whether other intelligent extraterrestrial life exists in the universe, to answer the question "Are we alone?" or "Is anybody out there?" Over 5.2 million volunteers take part in SETI distributed computation. Based on SETI@home, Berkeley developed BOINC, Berkeley Open Infrastructure for Network Computing, which has deployed interesting research projects in biomedicine, climate change, astrophysics, cryptography, mathematical proof, and many other fields. Everyone who has a Raspberry Pi or a PC is able to participate in and contribute to BOINC programs.
 
 <img src="https://github.com/YUEQIN18/IoT/blob/master/Picture/SETI.gif" width="600" alt="add_resourse"/><br/>
-
-If you want to know more information about SETI, :white_check_mark:click [here](https://github.com/YUEQIN18/IoT/blob/master/SETI%20Project.md)
 
 ## Weekly report 8
 
